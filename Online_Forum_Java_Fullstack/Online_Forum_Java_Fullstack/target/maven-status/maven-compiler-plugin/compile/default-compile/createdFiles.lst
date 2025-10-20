@@ -1,0 +1,17 @@
+com\example\forum_app\service\UserService.class
+com\example\forum_app\model\Category.class
+com\example\forum_app\config\SecurityConfig.class
+com\example\forum_app\controller\ForumController.class
+com\example\forum_app\ForumAppApplication.class
+com\example\forum_app\controller\AuthController.class
+com\example\forum_app\model\CustomUserDetails.class
+com\example\forum_app\model\ForumThread.class
+com\example\forum_app\ForumAppApplication$ForumApplication.class
+com\example\forum_app\repository\PostRepository.class
+com\example\forum_app\repository\CategoryRepository.class
+com\example\forum_app\service\ForumService.class
+com\example\forum_app\model\Post.class
+com\example\forum_app\model\User.class
+com\example\forum_app\repository\ForumThreadRepository.class
+com\example\forum_app\config\PasswordConfig.class
+com\example\forum_app\repository\UserRepository.class
